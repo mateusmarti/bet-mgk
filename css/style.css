@@ -1,0 +1,17 @@
+@media (max-width:700px) {
+    .apostas {
+        display: none;
+    }
+}
+@media (min-width:700px) {
+    
+}
+body{
+    background-color: rgb(175, 175, 175);
+}
+.menu {
+    background: linear-gradient(91.92deg, #F26905 62.23%, #000000 105.57%);
+}
+.btn-login li {
+    list-style: none;
+}
