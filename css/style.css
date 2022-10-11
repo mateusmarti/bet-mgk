@@ -15,3 +15,11 @@ body{
 .btn-login li {
     list-style: none;
 }
+.logos-menu {
+    margin-left: 10px;
+    background-color: white;
+}
+.texto-menu {
+    margin-left: 10px;
+    margin-top: 8px;
+}
