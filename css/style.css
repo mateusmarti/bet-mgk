@@ -5,9 +5,6 @@
     .hamburguer {
         margin-left: 350px;
     }
-    .apostas {
-        display: none;
-    }
     .text-comp {
         display: none;
     }
@@ -16,12 +13,13 @@
     }
 }
 @media (min-width:700px) {
-    .carrossel {
-        margin-left: 12px;
-    }
+    
     .intro {
         background-color: rgba(0, 0, 0, 0);
         height: 10px;
+    }
+    .imagem-wc, .texto-menu {
+        margin-top: 10px;
     }
 }
 body{
@@ -51,6 +49,8 @@ body{
 .menu-esquerda {
     margin-left: 0;
 }
-
+.apostas {
+    background-color: white;
+}
 
 
